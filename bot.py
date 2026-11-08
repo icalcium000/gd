@@ -40,7 +40,7 @@ SPREADSHEET_ID = os.getenv("SPREADSHEET_ID", "ВАШ_ID_ГУГЛ_ТАБЛИЦЫ"
 CREDENTIALS_FILE = "service_account.json"
 
 # Список Telegram ID руководителей клуба
-ADMIN_IDS = [123456789, 987654321]
+ADMIN_IDS = [6343645479, 119760250]
 
 # Часовой пояс (например: "Europe/Moscow" или "Asia/Yekaterinburg")
 TIMEZONE = "Europe/Moscow"
